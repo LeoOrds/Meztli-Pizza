@@ -1,0 +1,52 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#C13939;
+    color: white;
+    font-family: 'Cookie', 'cursive';
+    font-size: 20px;
+}
+.footer-col{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+form input, form textarea{
+    width: 100%;
+    border: 0;
+    outline: none;
+    background: #FFE5DE;
+    padding: 15px;
+    margin: 15px 0px;
+    color: #000;
+    font-size: 20px;
+    border-radius: 6px;
+}
+form .btn-2{
+    padding: 10px 50px;
+    font-size: 23px;
+    cursor:pointer;
+    border-color: none;
+}
+.seemore-btn.btn-2{
+    display: inline-block;
+    background: #86AEE1;
+    color: black;
+    border-radius: 20px;
+}
+.footer-icon{
+    font-size: 50px;
+}
+.footer-icon1{
+    font-size: 30px;
+}
+.icons{
+    margin: 3%;
+    color: white;
+}
+.icons:hover{
+    color: #86AEE1;
+    cursor: pointer;
+}

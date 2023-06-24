@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.nav-top{
+    font-family: 'Cookie', 'cursive';
+    font-size: 30px;
+    position: relative;
+}
+.navcolor{
+    background-color: #C13939;
+}
+.nav-item{
+    margin: auto;
+    
+}
+.nav-logo{
+    position: absolute;
+    margin-left: 6%;
+    color: aliceblue;
+}.nav-logo img{
+    margin-bottom: 10px;
+    border-radius: 100%;
+}
+.nav-logo1{
+    display: none;
+}
+.nav-burger{
+    margin-left: auto;
+}
+.nav-link{
+    text-decoration: none;
+}
+.nav-link h2{
+    color: aliceblue;
+}
+@media only screen and (max-width: 912px){
+    .nav-logo1{
+        display: block;
+        padding-left: 20px;
+    }
+    .nav-logo{
+        display: none;
+    }
+    .nav-logo1 img{
+    border-radius: 100%;
+    }
+    .nav-top{
+        font-size: 20px;
+    }
+    
+}

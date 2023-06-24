@@ -1,0 +1,51 @@
+.about-us{
+    padding-top: 5%;
+    padding-bottom: 2%;
+    font-family: 'Handlee', 'cursive';
+    background-color: #D28C84;
+    color: white;
+}
+.about-header{
+    padding-top: 2%;
+}
+.about-header img{
+    border-radius: 25px;
+}
+
+.about-header p{
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.about-card-body{
+    background-color: #FFE5DE;    
+}
+.about-card-title{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.about-card-text{
+    text-align: center;
+    font-size: 18px;
+}
+.profile-icon{
+    text-align: center;
+}
+.about-prof-icon{
+    margin: 0 3%;
+    font-size: 30px;
+    color: #D28C84;
+}
+.about-prof-icon:hover{
+    cursor: pointer;
+    color: #86AEE1;
+}
+.about-header1{
+    text-align: center;
+}
+.about-header2{
+    text-align: center;
+    padding: 20px 0 5px 0;
+}

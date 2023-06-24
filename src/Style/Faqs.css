@@ -1,0 +1,16 @@
+.faqs{
+    background-color: #D28C84;
+    font-family: 'Handlee', 'cursive';
+    color: white;
+}
+.faqs-head h1{
+    padding-top: 10%;
+    font-size: 50px;
+}
+.faqs-accor{
+    padding-bottom: 10px;
+}
+.faqs-item{
+    background-color: #FFE5DE;
+    color: black;
+}
